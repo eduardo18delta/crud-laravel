@@ -7,15 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Sobre
+# Sobre:
 
 CRUD simples com laravel de um pequeno sistema de estoque.
 
-1. CRUD:
+# CRUD:
 
 - C: Create.
 - R: Read.
 - U: Update.
 - D: Delete.
 
-2. Sistema simples para estudo.
+# Sistema simples para estudo.
